@@ -2,7 +2,7 @@
 Final year project- Hope Tremlett 
 
 ## What inspired me to create this project? 
-I wanted to create this project to awareness of how companies are using our data
+I wanted to create this project to awareness of how companies are using our data.
 As not many people read the T&Cs so are not aware of how there data online is being used by companies and when technology and social media usage is growing at exponential rate I think it is something that is important. Individuals should have freedom and control over there informatation.
 
 ## What is my project?
